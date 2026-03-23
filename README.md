@@ -1,5 +1,5 @@
-Steps to Run
-1. Verify the docker and kafka producer application are running.
+### Steps to Run Kafka Consumer
+1. Verify the docker and Kafka producer application are running.
 2. Run the application from the main class.
 3. Send the POST request via below curl
 
